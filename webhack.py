@@ -7,5 +7,5 @@ import os
 
 api = "https://www.ufamama.ru/Auth/ActivationByPhoneForm?phone=%2B79016929013"
 data = requests.get(api).json();
-print("Socket ", data['alert alert-warning'])
+print("Socket ", data['alert-warning'])
 
