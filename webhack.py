@@ -2,7 +2,7 @@ import argparse
 import requests, json
 import sys
 from sys import argv
-import os, Fore,
+import os, Fore
 
 
 api = "https://www.ufamama.ru/Auth/ActivationByPhoneForm?phone=%2B79016929013"
