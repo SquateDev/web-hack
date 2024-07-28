@@ -1,6 +1,7 @@
 import argparse
 import requests, json
 import sys
+import time
 from sys import argv
 import os
 from colorama import Fore, Style
